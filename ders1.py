@@ -7,7 +7,7 @@
 # input() function
 # int()...
 # float() 
-
+#salamm
 
 a = float(input("emek haqqinizi daxil edin:"))
 print("emek haqqiniz:",a)
